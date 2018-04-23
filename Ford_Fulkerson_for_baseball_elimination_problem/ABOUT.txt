@@ -1,0 +1,7 @@
+I implemented solution to famous so-called baseball elimination problem:
+https://en.wikipedia.org/wiki/Maximum_flow_problem#Baseball_elimination
+Flow directed graph (flow network) is being used to represent the problem and the Ford–Fulkerson (maxflow) algorithm to solve it.
+
+The input data text files must fit a number of conventions.
+The requirements for the input files for the program could be found here: 
+http://coursera.cs.princeton.edu/algs4/assignments/baseball.html
