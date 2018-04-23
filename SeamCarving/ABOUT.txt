@@ -1,0 +1,2 @@
+Seam-carving is a content-aware image resizing technique.
+This is my implementation of it that is using <shortest path in the directed acyclic graph> algorithm. 
