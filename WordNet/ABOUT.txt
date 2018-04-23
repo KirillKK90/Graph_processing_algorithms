@@ -1,4 +1,5 @@
 Here, Shortest Ancestral Path (SAP) in a WordNet calculation is implemented for the purpose of measuring the semantic relatedness between words. Breadth First Search (BFS) in a directed graph algorithm has been implemented for this.
+The vertex is a word or a combination of words, and edges are relationships between these words.
 
 Reference:
 WordNet is a semantic lexicon for the English language that is used extensively by computational linguists and cognitive scientists; for example, it was a key component in IBM's Watson. WordNet groups words into sets of synonyms called synsets and describes semantic relationships between them. One such relationship is the is-a relationship, which connects a hyponym (more specific synset) to a hypernym (more general synset). For example, animal is a hypernym of both bird and fish; bird is a hypernym of eagle, pigeon, and seagull.
